@@ -15,8 +15,13 @@ This work was build on an ubuntu 14.04 machine.
 
 ### Requirements
 - [v-rep] : A free simulation environment.
+  http://www.coppeliarobotics.com/downloads.html
+  
 - [Python NAOqi-SDK] : Contain all the function you need to manipulate your NAO (virtual or not) using python.
+  https://community.ald.softbankrobotics.com/en/resources/software/language/en-gb
+  
 - [Nengo] : a python package for a neural simulation environment developed at the centre for theoretical neuroscience at the university of Waterloo.
+
 - [OpenCV]
 
 # Recommended
