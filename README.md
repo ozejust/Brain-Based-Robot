@@ -25,6 +25,6 @@ This work was build on an ubuntu 14.04 machine.
 ### Quickstart
 - Replace /script/remoteApi.dll(and .so) with one suitale for your OS.
 - After all prerequisites installed:
-
+***Edit the start_linux.sh by setting the approporiate paths before you run***
 $ ./EnvironmentSetup/start_linux.sh
 Then run /script/bbr_main.py
