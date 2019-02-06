@@ -1,4 +1,4 @@
-# Brain-Based-Robot
+# Brain_Based_Robot
 
 # NAO in V-REP
 This goal of this project is to build a Brain-Based Robot (BBR) using hybrid techniques that incorporate both Brain-Based Device(BBD) and computational algorithms.
