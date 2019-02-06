@@ -6,4 +6,4 @@ cd ~/nao/sdk/naoqi-sdk/bin
 
 
 cd ~/nao/V-REP
-./vrep.sh ~/nao/workspace/scene/Labrinth.ttt
+./vrep.sh ~/Brain_Based_Robot/scene/BBR_scene.ttt
